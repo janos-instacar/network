@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "/images/instacar.png",
+    "file": "../images/instacar.png",
     "link": "",
     "text": "Pintye János"
   },

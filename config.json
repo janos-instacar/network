@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://janos-instacar.github.io/network/images/instacar.png",
-    "link": "https://instacar.hu",
-    "text": "Pintye János"
+    "file": "",
+    "link": "",
+    "text": ""
   },
   "text": {
     "more": "",

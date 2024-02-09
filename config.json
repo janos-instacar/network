@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
+    "file": "url('../images/logo.svg"),
     "link": "",
     "text": "Pintye János"
   },

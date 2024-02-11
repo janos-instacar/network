@@ -242,7 +242,7 @@ display: none;
   }
   
   #maintitle img {
-	max-width: 350px; /* A logó maximális szélessége */
+	max-width: 250px; /* A logó maximális szélessége */
 	height: auto; /* A magasság automatikusan állítódik */
 	display: inline-block; /* Ez lehetővé teszi a középre igazítást */
   }

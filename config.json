@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "search on license plate",
-    "colorLabel": "node ownership, edge: frequency",
-    "nodeLabel": "user"
+    "colorLabel": "node: ownership; edge: frequency",
+    "nodeLabel": "Gephi ID"
   },
   "features": {
     "search": true,

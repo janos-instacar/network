@@ -219,38 +219,22 @@ margin-right:10px;
 	display:none;
 }
 
-/*
 #maintitle {
-width: 100%;
-height: 72px;
-background-repeat: no-repeat;
-margin-bottom:20px;
-}
-
-#maintitle h1 {
-display: none;
-}
-*/
-
-#maintitle {
-	width: 100%; /* Megtartjuk */
-	/* height: 72px; Eltávolítjuk vagy módosítjuk, ha szükséges */
+	width: 100%;
 	background-repeat: no-repeat;
 	margin-bottom:20px;
-	text-align: center; /* Hozzáadjuk a középre igazítást */
-	padding: 10px 0; /* Hozzáadjuk, hogy legyen egy kis tér a logó körül */
+	text-align: center;
+	padding: 10px 0;
   }
   
   #maintitle img {
-	max-width: 200px; /* A logó maximális szélessége */
-	height: auto; /* A magasság automatikusan állítódik */
-	display: inline-block; /* Ez lehetővé teszi a középre igazítást */
+	max-width: 200px;
+	height: auto;
+	display: inline-block;
   }
   
-  /* Ha szeretnéd, hogy az h1 megjelenjen, akkor ezt a szabályt módosítani kell */
   #maintitle h1 {
-	display: block; /* Ha szeretnéd megjeleníteni az h1 elemet */
-	/* Itt adhatsz meg további stílusokat az h1 elem számára, ha szükséges */
+	display: block;
   }
   
 
@@ -322,9 +306,7 @@ background-position: -11px -13px;
 
 #search .results {
 	display: none;
-/*	border: 1px solid #999;*/
 	margin: 6px;
-	/*height: 150px;*/
 	overflow-y: scroll;
 	overflow-x: hidden;
 }
@@ -381,9 +363,6 @@ background-position: 200px -8px;
 	overflow-y: scroll;
 	overflow-x: hidden;
 	background-color: #999;
-	/*position: relative;
-		left: 240px;
-		bottom: 164px;*/
 	position:absolute;
 	margin-left: 240px;
 	margin-top:-164px;

@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "",
-    "intro": "Tulajdonként regisztrált autókra történő keresés.",
-    "title": "Instacar network"
+    "intro": "Gépjármű keresésekre épülő alhálózat felépítése.",
+    "title": "Instacar directed network"
   },
   "legend": {
     "edgeLabel": "search on license plate",
